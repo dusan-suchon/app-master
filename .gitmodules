@@ -4,3 +4,6 @@
 [submodule "app-dotnet"]
 	path = app-dotnet
 	url = git@github.com:nightofchances-cloud-2019/app-dotnet.git
+[submodule "presentation"]
+	path = presentation
+	url = git@github.com:nightofchances-cloud-2019/presentation.git
