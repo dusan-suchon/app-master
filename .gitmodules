@@ -1,0 +1,6 @@
+[submodule "app-terraform"]
+	path = app-terraform
+	url = git@github.com:nightofchances-cloud-2019/app-terraform.git
+[submodule "app-dotnet"]
+	path = app-dotnet
+	url = git@github.com:nightofchances-cloud-2019/app-dotnet.git
